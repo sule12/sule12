@@ -1,16 +1,24 @@
-### Hi there 👋
+Hello 👋
+My name is Sule Bello. I am an Elixir Developer and Devops Engineer located in Nigeria. I love building projects with Elixir/Phoenix and also working with different devops tools.
 
-<!--
-**sule12/sule12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prior to working with programming languages, I was working as a Network Engineer where I built and managed several datacenters using cisco devices and technologies. Handled 80% of the planning, configurations and management. 
 
-Here are some ideas to get you started:
+Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Elixir
+* Phoenix 
+* Postgresql
+* MYSQL 
+* Tailwind CSS
+* Docker 
+* Kubernetes 
+* Grafana 
+* Prometheus 
+* Alert Manager 
+* Argo CD 
+* Gitlab CI
+* NodeJS
+* Amazon Web Services
+* Google Cloud Platform 
+* Linux Administration
+

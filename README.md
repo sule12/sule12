@@ -17,7 +17,6 @@ Technical Skills
 * Alert Manager 
 * Argo CD 
 * Gitlab CI
-* NodeJS
 * Amazon Web Services
 * Google Cloud Platform 
 * Linux Administration

@@ -16,7 +16,7 @@ Technical Skills
 * Tailwind CSS
 * Docker 
 * Kubernetes
-* * JavaScript
+* JavaScript
 * React
 * Grafana 
 * Prometheus 

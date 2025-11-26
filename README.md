@@ -11,7 +11,7 @@ I am a DevOps & Software Engineer based in **Canada**, passionate about building
 - Automation & CI/CD pipelines
 - Real-world digital products (SaaS, mobile apps, real estate tech, donation systems)
 
-I enjoy turning ideas into working products using **Elixir, Flutter, Node, DevOps tools, and Cloud technologies**.
+I enjoy turning ideas into working products using **Elixir, Python, Javascript, Flutter, Node, DevOps tools, and Cloud technologies**.
 
 ---
 
@@ -19,16 +19,17 @@ I enjoy turning ideas into working products using **Elixir, Flutter, Node, DevOp
 
 #### **Languages & Frameworks**
 - **Elixir (Phoenix, LiveView, Ecto)**
-- **Flutter (Dart)**
-- **JavaScript / TypeScript (Node, React)**
+- **Dart (Flutter)**
+- **JavaScript / TypeScript (Node, React, Nextjs)**
 - **Python (APIs, Automation)**
-- **C# ASP.NET (maintenance work)**
+- **C# ASP.NET**
 
 #### **DevOps & Cloud**
 - **Docker • Kubernetes**
 - **CI/CD (GitHub Actions, GitLab, Jenkins)**
 - **Linode • DigitalOcean • AWS • GCP**
 - **Linux server administration (Ubuntu)**
+- **Terraform • Pulumi**
 
 #### **Databases**
 - PostgreSQL  

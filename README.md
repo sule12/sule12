@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Sule Bello 👋</h1>
+<h1 align="center">Hi, I'm Sule Bello </h1>
 <h3 align="center">DevOps Engineer • Software Engineer • Cloud & Infrastructure Specialist</h3>
 
 ---
 
-### 🚀 About Me
+###  About Me
 I am a DevOps & Software Engineer based in **Canada**, passionate about building:
 - Scalable backend systems
 - Clean & modern front-end apps
@@ -15,7 +15,7 @@ I enjoy turning ideas into working products using **Elixir, Flutter, Node, DevOp
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### **Languages & Frameworks**
 - **Elixir (Phoenix, LiveView, Ecto)**
@@ -43,7 +43,7 @@ I enjoy turning ideas into working products using **Elixir, Flutter, Node, DevOp
 
 ---
 
-### 🚧 Featured Projects
+###  Featured Projects
 
 #### 🔹 **EIWO – Real Estate Property Management (Elixir + Next.js)**
 Multi-tenant real estate platform with property listings, bookings, admin dashboard, automated geolocation updates, and cloud deployment.
@@ -62,7 +62,7 @@ Contact forms, admin dashboard, and customer insights with Phoenix components.
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sule12&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -72,10 +72,10 @@ Contact forms, admin dashboard, and customer insights with Phoenix components.
 
 ---
 
-### 📫 Contact Me
-- **Email:** your-email-here  
-- **LinkedIn:** linkedin.com/in/your-name  
-- **Portfolio:** https://techwithsule.com (optional)
+###  Contact Me
+- **Email:** sbello1234@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/suleimanbellojsb/
+- **Blog:** https://suleb.hashnode.dev/
 
 ---
 

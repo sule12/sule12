@@ -52,11 +52,8 @@ Multi-tenant real estate platform with property listings, bookings, admin dashbo
 #### 🔹 **Rehoboth – Donation & Mass Intention Mobile App (Flutter + Elixir)**
 Mobile app for church donations, mass bookings, recurring payments, admin reporting dashboard.
 
-#### 🔹 **Healthy Eating AI Coach (Flutter + Python)**
+#### 🔹 **Healthy Eating AI Coach (Flutter + Python + Elixir)**
 AI-powered meal planning and personalized nutrition assistant.
-
-#### 🔹 **VirtualBox Automation Portal (Elixir + Linux + Bash)**
-Automated VM provisioning system for 8 company tenants, with backups, user access control, and network isolation.
 
 #### 🔹 **Cellararx – Contact Management System (Phoenix LiveView)**
 Contact forms, admin dashboard, and customer insights with Phoenix components.
